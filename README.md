@@ -48,7 +48,7 @@ To uncover actionable crime insights across geography, time, and demographics â€
 
 ## ðŸ“Š Dashboard Preview (Live Demo)
 
-![Dashboard Demo](dashboard.gif)
+![Dashboard Demo](dashboards.gif)
 
 ---
 
