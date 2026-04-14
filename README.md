@@ -6,6 +6,12 @@ The dashboard identifies high-risk areas, temporal crime trends, and behavioral 
 
 ---
 
+## 📊 Dashboard Preview (Demo)
+
+![Dashboard Demo](dashboards.gif)
+
+---
+
 ## Objective
 To uncover actionable crime insights across geography, time, and demographics — enabling better resource allocation and policy planning.
 
@@ -43,12 +49,6 @@ To uncover actionable crime insights across geography, time, and demographics �
   - Time
   - Crime type
 - Time-series trend analysis (2020–2026)
-
----
-
-## 📊 Dashboard Preview (Live Demo)
-
-![Dashboard Demo](dashboards.gif)
 
 ---
 
