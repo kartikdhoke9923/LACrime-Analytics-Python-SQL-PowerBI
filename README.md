@@ -8,7 +8,9 @@ The dashboard identifies high-risk areas, temporal crime trends, and behavioral 
 
 ## 📊 Dashboard Preview (Demo)
 
-![Dashboard Demo](dashboards.gif)
+<p align="center">
+  <img src="dashboards.gif" width="700"/>
+</p>
 
 ---
 
